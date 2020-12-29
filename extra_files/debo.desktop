@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Debo
+Comment=Sleek Qt deb installer
+Exec=debo
+Icon=deb
+Terminal=false
+Type=Application
+Categories=Utility;System
